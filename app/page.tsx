@@ -4,8 +4,8 @@ export default function Home() {
   return (
     <main className="flex gap-3 flex-col justify-between p-24 max-w-5xl mx-auto">
       <div>
-        <h1 className="text-6xl">John Doe</h1>
-        <p>Developer, Student at McMaster University</p>
+        <h1 className="text-6xl">Sachin Gupta</h1>
+        <p>Developer, McMaster University, Software Engineer</p>
       </div>
  
       <div>
