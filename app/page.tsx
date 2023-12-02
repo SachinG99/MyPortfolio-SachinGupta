@@ -17,7 +17,7 @@ export default function Home() {
             <a
               className="text-blue-600 underline"
               href="https://www.instagram.com/__sachin18/">
-              @johndoe
+              @sachin
             </a>
           </li>
         </ul>
