@@ -10,10 +10,7 @@ export default function Home() {
     <main className="flex gap-3 flex-col justify-between p-24 max-w-5xl mx-auto">
       <img src="/banner.png"></img>
     
-      <div>
-        <h1 className="text-6xl">Sachin Gupta</h1>
-        <p>McMaster University, Software Engineer</p>
-      </div>
+      <button type="button">Click Me!</button>
 
       
  
