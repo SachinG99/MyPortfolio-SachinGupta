@@ -8,7 +8,7 @@ export default function Home() {
     
 
     <main className="flex gap-3 flex-col justify-between p-24 max-w-5xl mx-auto">
-      <img src="/banner.png"></img>
+      <img src="/us.png"></img>
     
       <button type="button">Click Me!</button>
 
