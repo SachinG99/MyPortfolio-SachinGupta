@@ -10,12 +10,12 @@ export default function Home() {
     <main className="flex gap-3 flex-col justify-between p-24 max-w-5xl mx-auto">
       <img src="/them.png"></img>
     
-      <button type="button">Click Me!</button>
+      <button type="button">Click Me! Or else...</button>
 
       
  
       <div>
-        <h2 className="text-4xl">Socials</h2>
+        <h2 className="text-4xl">I am Social</h2>
  
         <ul>
           <li>
@@ -30,7 +30,7 @@ export default function Home() {
       </div>
  
       <div className="flex flex-col gap-2">
-        <h2 className="text-4xl">Projects</h2>
+        <h2 className="text-4xl">I am a Project (I am developed by AI)</h2>
         <div className="grid gap-2 grid-cols-1 md:grid-cols-2">
           <div className="p-4 border rounded shadow-md">
             <h3 className="text-3xl text-bold">Project Alpha</h3>
