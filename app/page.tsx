@@ -8,13 +8,7 @@ export default function Home() {
     
 
     <main className="flex gap-3 flex-col justify-between p-24 max-w-5xl mx-auto">
-      <h2>Image as a Link</h2>
-
-      <p>The image is a link. You can click on it.</p>
-
-      <a href="default.asp">
-      
-      </a>
+      <img src="C:\Users\sachi\Downloads\this.png" alt="NOOOO"></img>
     
       <div>
         <h1 className="text-6xl">Sachin Gupta</h1>
