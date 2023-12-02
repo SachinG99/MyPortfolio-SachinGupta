@@ -5,7 +5,7 @@ export default function Home() {
     <main className="flex gap-3 flex-col justify-between p-24 max-w-5xl mx-auto">
       <div>
         <h1 className="text-6xl">Sachin Gupta</h1>
-        <p>Developer, McMaster University, Software Engineer</p>
+        <p>McMaster University, Software Engineer</p>
       </div>
  
       <div>
@@ -13,26 +13,10 @@ export default function Home() {
  
         <ul>
           <li>
-            Twitter: {" "}
+            Instagram: {" "}
             <a
               className="text-blue-600 underline"
-              href="https://twitter.com">
-              @johndoe
-            </a>
-          </li>
-          <li>
-            Github: {" "}
-            <a
-              className="text-blue-600 underline"
-              href="https://github.com">
-              @johndoe
-            </a>
-          </li>
-          <li>
-            LinkedIn: {" "}
-            <a
-              className="text-blue-600 underline"
-              href="https://linkedin.com">
+              href="https://www.instagram.com/__sachin18/">
               @johndoe
             </a>
           </li>
