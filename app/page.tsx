@@ -6,9 +6,10 @@ export default function Home() {
   return (
 
     
-    
 
     <main className="flex gap-3 flex-col justify-between p-24 max-w-5xl mx-auto">
+      <img src="C:\Users\sachi\OneDrive\Pictures\Screenshots\Screenshot 2023-11-27 215219.png"></img>
+    
       <div>
         <h1 className="text-6xl">Sachin Gupta</h1>
         <p>McMaster University, Software Engineer</p>
