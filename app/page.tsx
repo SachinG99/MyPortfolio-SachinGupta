@@ -8,7 +8,7 @@ export default function Home() {
     
 
     <main className="flex gap-3 flex-col justify-between p-24 max-w-5xl mx-auto">
-      <img src="C:\Users\sachi\OneDrive\Pictures\Screenshots\Screenshot 2023-11-27 215219.png"></img>
+      <img src="C:\Users\sachi\OneDrive\Pictures\Screenshots\Screenshot_2023-11-27_215219.png"></img>
     
       <div>
         <h1 className="text-6xl">Sachin Gupta</h1>
